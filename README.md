@@ -3,9 +3,9 @@
 ## Проект для тестрования возможностей GitHub
 
 ## Инструкция по установке:
-//bash
-//git clone https://github.com/Gipeg/LabWork3_0202.git cd LabWork3_0202
-//dotnet build
+bash
+git clone https://github.com/Gipeg/LabWork3_0202.git cd LabWork3_0202
+dotnet build
 
 ## Использование
 bush dotnet run
