@@ -13,6 +13,7 @@ bush dotnet run
 ## Системные требования
 1. .NET Core 8.0 или выше
 2. SSMS
+3. SQL Server 22
 
 ## Контрибьютинг
 Нет
